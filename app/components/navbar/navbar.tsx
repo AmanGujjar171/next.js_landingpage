@@ -9,18 +9,18 @@ const Navbar: React.FC = () => {
       className=" w-[100%] h-[8vh] text-[#191619] bg-[#F5F5F5] flex justify-around items-center"
     >
       <div>
-        <ul className="flex justify-between items-center w-[30vw] text-lg h-[5vh] ">
+        <ul className="flex justify-between items-center w-[30vw] text-[1.1vw] h-[5vh] ">
           <li>Features</li>
           <li>Pricing</li>
           <li>Testimonials</li>
           <li>Resources</li>
         </ul>
       </div>
-      <div className="text-4xl ">
+      <div className="text-[2vw] font-bold">
         <h1>circle</h1>
       </div>
       <div>
-        <ul className="flex justify-around items-center text-lg h-[5vh] w-[30vw] ">
+        <ul className="flex justify-around items-center text-[1.1vw] h-[5vh] w-[30vw] ">
           <li>Company</li>
           <li>Contact</li>
           <li>
